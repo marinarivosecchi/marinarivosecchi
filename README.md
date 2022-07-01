@@ -22,10 +22,10 @@ I'm Marina, a self-taught data analyst from Argentina.
 
 - Data analysis Projects
 - Data science Projects
-- Tableau Portfolio
+- [Tableau Portfolio](https://public.tableau.com/app/profile/marina.rivosecchi#!/)
 
 ### 🙌🏻 Connect with Me
 
-- LinkedIn
-- Kaggle
+- [Linkedin](https://www.linkedin.com/in/marina-rivosecchi/)
+- [Kaggle](https://www.kaggle.com/marinarivosecchi)
 
