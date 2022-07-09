@@ -22,8 +22,8 @@ I'm Marina, a civil engineer and self-taught data analyst from Argentina.
 ### 📚 Projects 📚
 
 #### Data Science 
-- [**Python**: Detection of Counterfeit Banknotes](https://github.com/marinarivosecchi/Detection-of-Counterfeit-Banknotes/blob/main/Counterfeit_Banknotes.ipynb)
-- [**Python**: Prediction of Apartment Prices in Buenos Aires](https://github.com/marinarivosecchi/Buenos-Aires-Apartment-Prices/blob/main/Buenos%20Aires%20Housing.ipynb)
+- [**Python + K-Means Clustering Algorithm**: Detection of Counterfeit Banknotes](https://github.com/marinarivosecchi/Detection-of-Counterfeit-Banknotes/blob/main/Counterfeit_Banknotes.ipynb)
+- [**Python + Linear Regression + Ridge Regression**: Prediction of Apartment Prices in Buenos Aires](https://github.com/marinarivosecchi/Buenos-Aires-Apartment-Prices/blob/main/Buenos%20Aires%20Housing.ipynb)
 #### Data Analysis 
 - [**SQL + Tableau**: COVID Data Exploration](https://github.com/marinarivosecchi/COVID-Project/blob/main/COVID%20Project.sql)
 #### Data Visualisation
