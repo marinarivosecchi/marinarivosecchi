@@ -1,5 +1,5 @@
 ## Hi there! 🙋🏻‍♀️
-I'm Marina, a self-taught data analyst from Argentina.
+I'm Marina, a civil engineer and self-taught data analyst from Argentina.
 
 ### ✨ About Me in 30 Secs ✨
 
@@ -21,12 +21,12 @@ I'm Marina, a self-taught data analyst from Argentina.
 
 ### 📚 Projects 📚
 
-Data Science Projects
-- [Python: Detection of Counterfeit Banknotes](https://github.com/marinarivosecchi/Detection-of-Counterfeit-Banknotes/blob/main/Counterfeit_Banknotes.ipynb)
-- [Python: Prediction of Apartment Prices in Buenos Aires](https://github.com/marinarivosecchi/Buenos-Aires-Apartment-Prices/blob/main/Buenos%20Aires%20Housing.ipynb)
-Data Analysis Projects
-- [SQL + Tableau: COVID Data Exploration](https://github.com/marinarivosecchi/COVID-Project/blob/main/COVID%20Project.sql)
-Data Visualisation
+#### Data Science 
+- [**Python**: Detection of Counterfeit Banknotes](https://github.com/marinarivosecchi/Detection-of-Counterfeit-Banknotes/blob/main/Counterfeit_Banknotes.ipynb)
+- [**Python**: Prediction of Apartment Prices in Buenos Aires](https://github.com/marinarivosecchi/Buenos-Aires-Apartment-Prices/blob/main/Buenos%20Aires%20Housing.ipynb)
+#### Data Analysis 
+- [**SQL + Tableau**: COVID Data Exploration](https://github.com/marinarivosecchi/COVID-Project/blob/main/COVID%20Project.sql)
+#### Data Visualisation
 - [Tableau Portfolio](https://public.tableau.com/app/profile/marina.rivosecchi#!/)
 
 ### 🙌🏻 Connect with Me
