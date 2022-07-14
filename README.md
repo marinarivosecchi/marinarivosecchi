@@ -28,13 +28,13 @@ I'm Marina, a civil engineer and self-taught data analyst from Argentina.
 #### Data Analysis 
 - [**SQL + Tableau**: COVID Data Exploration](https://github.com/marinarivosecchi/COVID-Project/blob/main/COVID%20Project.sql)
 #### Data Visualisation
-- [Tableau Portfolio](https://public.tableau.com/app/profile/marina.rivosecchi#!/)
-- COVID-19 Rates Dashboard
-- Superstore Sales and Profitability Executive Dashboard
-- Convenience Store Sales Analysis
+- [Superstore Sales and Profitability Executive Dashboard](https://public.tableau.com/views/Leaerningpractice2/Executiveoverview?:language=es-ES&:display_count=n&:origin=viz_share_link)
+- [COVID-19 Rates Dashboard](https://public.tableau.com/views/CovidDashboard_16551635708720/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link)
+- [Convenience Store Sales Analysis](https://public.tableau.com/views/Conveniencestore-Overview/Conveniencestore-Overview?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
 ### 🙌🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/marina-rivosecchi/)
 - [Kaggle](https://www.kaggle.com/marinarivosecchi)
+- [Tableau](https://public.tableau.com/app/profile/marina.rivosecchi#!/)
 
