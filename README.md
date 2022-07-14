@@ -11,6 +11,7 @@ I'm Marina, a civil engineer and self-taught data analyst from Argentina.
 
 - Learning Machine Learning ie. scikit-learn, linear regressions, different types of algorithms
 - Brushing up on data cleaning and wrangling skills
+- Google Data Analytics Professional Certificate
 - World Quant University Applied Data Science Lab
 
 ### 💡 Core Competencies 💡
