@@ -42,5 +42,4 @@ I'm Marina, a civil engineer and self-taught data analyst from Argentina.
 ### 🙌🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/marina-rivosecchi/)
-- [Tableau](https://public.tableau.com/app/profile/marina.rivosecchi)
 
