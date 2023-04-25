@@ -5,7 +5,7 @@ I'm Marina, a civil engineer and self-taught data scientist from Argentina.
 
 - 👩🏻‍💻 Civil engineer turned data scientist
 - 📊 Transitioned to data in February 2022
-- 📝 Taught myself SQL, Python and Tableau
+- 📝 Taught myself SQL, Python and Tableau, Data Studio/Looker
 
 ### ⚡️ Currently ⚡️
 
@@ -16,7 +16,7 @@ I'm Marina, a civil engineer and self-taught data scientist from Argentina.
 
 ### 💡 Core Competencies 💡
 
-- Tools: SQL, Python, Tableau
+- Tools: SQL, Python, Tableau, Data Studio/Looker
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
 
