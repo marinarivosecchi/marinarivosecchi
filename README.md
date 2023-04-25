@@ -23,7 +23,7 @@ I'm Marina, a civil engineer and self-taught data scientist from Argentina.
 ### 📚 Projects 📚
 
 #### Data Analysis 
-- [**SQL Queries Examples from Current Job**](https://github.com/marinarivosecchi/Ecommerce-SQL-Queries/tree/main)
+- [**SQL Query Examples from Current Job**](https://github.com/marinarivosecchi/Ecommerce-SQL-Queries/tree/main)
 - [**SQL + Tableau**: COVID 19 Data Exploration](https://github.com/marinarivosecchi/COVID-19-Data-Exploration/blob/main/COVID-19-Data-Exploration.sql)
 
 #### Data Science 
