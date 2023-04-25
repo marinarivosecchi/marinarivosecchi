@@ -3,7 +3,7 @@ I'm Marina, a civil engineer and self-taught data scientist from Argentina.
 
 ### ✨ About Me in 30 Secs ✨
 
-- 👩🏻‍💻 Civil engineer turned data scientist
+- 👩🏻‍💻 Civil engineer turned data analyst specialising in Business Intelligence
 - 📊 Transitioned to data in February 2022
 - 📝 Taught myself SQL, Python and Tableau, Data Studio/Looker
 
