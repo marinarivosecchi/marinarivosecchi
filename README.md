@@ -30,7 +30,7 @@ I'm Marina, a civil engineer and self-taught data analyst from Argentina.
 - [**Python + K-Means Clustering Algorithm**: Detection of Counterfeit Banknotes](https://github.com/marinarivosecchi/Detection-of-Counterfeit-Banknotes/blob/main/Counterfeit_Banknotes.ipynb)
 - [**Python + Linear Regression + Ridge Regression**: Prediction of Apartment Prices in Buenos Aires](https://github.com/marinarivosecchi/Prediction-of-Apartment-Prices-in-Buenos-Aires/blob/main/Buenos%20Aires%20Housing.ipynb)
 
-#### Data Visualisation
+#### Data Visualization
 ##### Looker / Data Studio
 - [Big data / E-commerce Dashboard](https://lookerstudio.google.com/reporting/e07b3e88-f014-41ea-b9cf-40da0aaa471f)
 - [E-commerce Dashboard](https://lookerstudio.google.com/reporting/584cfacc-2f35-46c5-bc6a-103ee15be049)
