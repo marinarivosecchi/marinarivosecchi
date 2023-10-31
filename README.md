@@ -1,5 +1,5 @@
 ## Hi there! 🙋🏻‍♀️
-I'm Marina, a civil engineer and self-taught data analyst from Argentina.
+I'm Marina, a civil engineer and data analyst from Argentina.
 
 ### ✨ About Me in 30 Secs ✨
 
