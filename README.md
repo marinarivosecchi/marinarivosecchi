@@ -19,8 +19,13 @@ I'm Marina, a civil engineer and data analyst from Argentina.
 - Tools: SQL, Python, Tableau, Data Studio/Looker
 - Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
 
+### 📚 Professional Data Analytics Publications 📚
+- Exploring Sustainable Online Consumption Trends in Latin America: A Comprehensive Study [🔗](https://meli-sustentabilidad-bucket.s3.amazonaws.com/Tendencias_Impacto_Positivo_LATAM_es_2023_4c596e7394.pdf?updated_at=2023-08-01T14:01:26.385Z)
+- Twin Transition: Towards Green and Digital Transformation in Mexico [🔗](https://20529227.fs1.hubspotusercontent-na1.net/hubfs/20529227/Twin%20Transition%20-%20Descagable.pdf)
+- Sustainable consumption trends in Latin America and the world [🔗](https://www.linkedin.com/pulse/tendencias-de-consumo-responsable-en-am%2525C3%2525A9rica-latina-y-el-mundo%3FtrackingId=4XJ32BnDwFdEQm7cTfECIw%253D%253D/?trackingId=4XJ32BnDwFdEQm7cTfECIw%3D%3D)
+- Analyzing Civil Engineering Capstone Projects: Water, Sanitation, and Social Perspectives [🔗](https://drive.google.com/file/d/1pUGFO_Igvg93pZoCMdHccKg8_qtJOkP8/view?usp=sharing)
 
-### 📚 Projects 📚
+### 🔎 Other Projects 🔎
 
 #### Data Analysis 
 - [**E-commerce SQL Queries**](https://github.com/marinarivosecchi/Ecommerce-SQL-Queries/tree/main)
@@ -42,4 +47,6 @@ I'm Marina, a civil engineer and data analyst from Argentina.
 ### 🙌🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/marina-rivosecchi/)
+- [Email](marinarivosecchi@gmail.com)
+
 
