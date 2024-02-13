@@ -40,9 +40,9 @@ I'm Marina, a civil engineer and data analyst located in Paris, France.
 ##### Looker / Data Studio
 - [Big data / E-commerce Dashboard](https://lookerstudio.google.com/reporting/e07b3e88-f014-41ea-b9cf-40da0aaa471f)
 - [E-commerce Dashboard](https://lookerstudio.google.com/reporting/584cfacc-2f35-46c5-bc6a-103ee15be049)
-- [Superstore Sales and Profitability Executive Dashboard](https://public.tableau.com/views/Leaerningpractice2/Executiveoverview?:language=es-ES&:display_count=n&:origin=viz_share_link)
 - [Academic Analytics Dashboard](https://lookerstudio.google.com/reporting/e5e646dc-adae-4b8a-8b8a-16e8922fd6ac)
 ##### Tableau
+- [Superstore Sales and Profitability Executive Dashboard](https://public.tableau.com/views/Leaerningpractice2/Executiveoverview?:language=es-ES&:display_count=n&:origin=viz_share_link)
 - [COVID-19 Rates Dashboard](https://public.tableau.com/views/CovidDashboard_16551635708720/Dashboard1?:language=es-ES&:display_count=n&:origin=viz_share_link)
 - [Convenience Store Sales Analysis](https://public.tableau.com/views/Conveniencestore-Overview/Conveniencestore-Overview?:language=es-ES&:display_count=n&:origin=viz_share_link)
 
