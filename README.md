@@ -17,8 +17,8 @@ I'm Marina, a civil engineer and data analyst located in Paris, France.
 
 ### 💡 Core Competencies 💡
 
-- Tools: SQL, Python, Tableau, Data Studio/Looker
-- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development
+- Tools: SQL, Python, Power BI, Tableau, Data Studio/Looker, Google Analytics, Google Ads
+- Skills: Data Cleaning and Wrangling, Data Visualisation, Data Analysis, Relational Databases, Dashboard Design and Development, Project Management
 
 ### 📚 Professional Data Analytics Publications 📚
 - Exploring Sustainable Online Consumption Trends in Latin America: A Comprehensive Study [🔗](https://meli-sustentabilidad-bucket.s3.amazonaws.com/Tendencias_Impacto_Positivo_LATAM_es_2023_4c596e7394.pdf?updated_at=2023-08-01T14:01:26.385Z)
