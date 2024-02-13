@@ -47,6 +47,6 @@ I'm Marina, a civil engineer and data analyst from Argentina.
 ### 🙌🏻 Connect with Me
 
 - [Linkedin](https://www.linkedin.com/in/marina-rivosecchi/)
-- [Email](marinarivosecchi@gmail.com)
+- [Email](mailto:marinarivosecchi@gmail.com)
 
 
