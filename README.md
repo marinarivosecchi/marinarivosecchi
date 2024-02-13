@@ -9,7 +9,7 @@ I'm Marina, a civil engineer and data analyst located in Paris, France.
 
 ### ⚡️ Currently ⚡️
 
-- Working at Cisco as a project manager and business analyst in Global Partner Sales.
+- Working at Cisco as a project manager and business analyst in Global Partner Sales
 - Learning Machine Learning ie. scikit-learn, linear regressions, different types of algorithms
 - Brushing up on data cleaning and wrangling skills
 - Google Data Analytics Professional Certificate
